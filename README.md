@@ -46,7 +46,8 @@ Original course resources: [Playlist on Youtube](https://www.youtube.com/playlis
 Instructor: [Sebastian Thrun](http://robots.stanford.edu/) <br>
 University: Stanford
 
-##### [DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX]<a name="ds101x"></a>
+<a name="ds101x"></a>
+##### [DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX]
 Instructors: <br>
 University: Columbia University
 ##### <a name="ds102x"></a>[DS102x: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX]
