@@ -41,19 +41,20 @@ Pros/cons:
  
 Original course resources: [Playlist on Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599), [Website](http://cs229.stanford.edu/)
 
-#####<a name="ud120"></a> [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity]
+#####<a name="ud120"></a>[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity]
 
 Instructor: [Sebastian Thrun](http://robots.stanford.edu/) <br>
 University: Stanford
 
-<a name="ds101x"></a>
-##### [DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX]
+#####<a name="ds101x"></a>[DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX]
 Instructors: <br>
 University: Columbia University
-##### <a name="ds102x"></a>[DS102x: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX]
+
+#####<a name="ds102x"></a>[DS102x: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX]
 Instructors: <br>
 University: Columbia University
-##### <a name="ds103x"></a>[DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX]
+
+#####<a name="ds103x"></a>[DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX]
 Instructors: <br>
 University: Columbia University
 
