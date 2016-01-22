@@ -30,7 +30,7 @@ Courses:
 * [DS102x: Machine Learning for Data Science and Analytics](#ds102x)
 * [DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](#ds103x)
 
-### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [Coursera]
 
 Instructors: [Emily Fox](https://www.stat.washington.edu/~ebfox/), [Carlos Guestrin](https://homes.cs.washington.edu/~guestrin/)
 
