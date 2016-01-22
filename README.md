@@ -13,7 +13,14 @@ Instructors:
 
 TODO: add other courses
 Courses:
-* [Introduction to Machine Learning](#abcd)
+* [Introduction to Machine Learning](#ud120)
+
+###  [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
+
+Courses:
+* [DS101x: Statistical Thinking for Data Science and Analytics](#ds101x)
+* [DS102x: Machine Learning for Data Science and Analytics](#ds102x)
+* [DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](#ds103x)
 
 ## Courses
 
@@ -30,21 +37,16 @@ Pros/cons:
  
 Original course resources: [Playlist on Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599), [Website](http://cs229.stanford.edu/)
 
-## [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity, Stanford]
+### <a name="ud120"></a> [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity, Stanford]
 
 Instructor:
 [Sebastian Thrun](http://robots.stanford.edu/)
 
-## [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
-
+### <a name="ds101x"></a> [DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX, Columbia University]
 Instructors:
-TODO, long list
-
-### [DS101: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX, Columbia University]
+### <a name="ds102x"></a> [DS102x: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX, Columbia University]
 Instructors:
-### [DS102: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX, Columbia University]
-Instructors:
-### [DS103: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX, Columbia University]
+### <a name="ds103x"></a> [DS103x: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX, Columbia University]
 Instructors:
 
 ## [Machine Learning: Winter 2016](http://www.cs.ubc.ca/~schmidtm/Courses/540-W16/) [University of British Columbia]
@@ -105,8 +107,6 @@ Other Resources
 
 ## Books
  * [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) - [Sebastian Raschka](http://sebastianraschka.com/)
-	
-### <a name="abcd"></a> Test
 
 Contributors
 ===
