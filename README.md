@@ -94,12 +94,14 @@ Pros/cons:
 Instructor: [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php) <br>
 University: University of Toronto
 
-TODO: [Place for this list](http://learning.cs.toronto.edu/courses)
-
 ### [Machine Learning](https://www.coursera.org/course/machlearning) [Coursera]
 
 Instructor: [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) <br>
 University: University of Washington
+
+## Archives
+
+### [University of Toronto Machine Learning](http://learning.cs.toronto.edu/courses)
 
 # Other Resources
 
