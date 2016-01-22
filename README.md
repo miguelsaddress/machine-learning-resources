@@ -6,7 +6,10 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 
 ## Online Courses and Materials
 
-### [Machine Learning](https://www.coursera.org/learn/machine-learning) by [Andrew Ng](http://www.andrewng.org/) [Coursera, Stanford]
+### [Machine Learning](https://www.coursera.org/learn/machine-learning) [Coursera, Stanford]
+
+Instructor:
+ * [Andrew Ng](http://www.andrewng.org/)
 
 Attention points:
  * Strong focus on algorithms and models, less on statistics
@@ -24,17 +27,22 @@ Instructors:
  * [Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee)
  * [Miriam Swords Kalk]()
 
-#### [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) by [Sebastian Thrun](http://robots.stanford.edu/) [Udacity, Stanford]
-Thrun's course is part of the "Data Analyst" nanodegree, listed as a free course. TODO: add other courses from the [nanodegree]().
+#### [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity, Stanford]
 
-### [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX, Columbia University]
+Instructor:
+ * [Sebastian Thrun](http://robots.stanford.edu/)
+
+### [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
 
 Instructors:
 TODO, long list
 
 #### [DS101: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX, Columbia University]
+Instructors:
 #### [DS102: Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x) [edX, Columbia University]
+Instructors:
 #### [DS103: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX, Columbia University]
+Instructors:
 
 	* other:
 		- [Winter 2016](http://www.cs.ubc.ca/~schmidtm/Courses/540-W16/)
