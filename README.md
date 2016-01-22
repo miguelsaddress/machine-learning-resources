@@ -6,7 +6,7 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 
 ## Programs and degrees
 
-### [Data Analist nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) [Udacity]
+### [Data Analist Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) [Udacity]
 
 Instructors: [Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee), [Miriam Swords Kalk]()
 
@@ -23,7 +23,7 @@ Courses:
 * [Introduction to Big Data Analytics](#big-data-analytics)
 * [Hadoop Platform and Application Framework](#big-data-analytics)
 
-### [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
+### [XSeries: Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
 
 Courses:
 * [DS101x: Statistical Thinking for Data Science and Analytics](#ds101x)
