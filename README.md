@@ -21,16 +21,21 @@ Original course resources:
  * [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
  * [Website](http://cs229.stanford.edu/)
 
+---
+
 ### [Data Analist nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) [Udacity]
 
 Instructors:
  * [Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee)
  * [Miriam Swords Kalk]()
 
+TODO: add other courses
 #### [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity, Stanford]
 
 Instructor:
  * [Sebastian Thrun](http://robots.stanford.edu/)
+
+---
 
 ### [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
 
@@ -43,6 +48,8 @@ Instructors:
 Instructors:
 #### [DS103: Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x) [edX, Columbia University]
 Instructors:
+
+---
 
 	* other:
 		- [Winter 2016](http://www.cs.ubc.ca/~schmidtm/Courses/540-W16/)
