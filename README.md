@@ -6,13 +6,18 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 
 ## Online Courses and Materials
 
-### Machine Learning by Andrew Ng [Stanford]
+### [Machine Learning](https://www.coursera.org/learn/machine-learning) by [Andrew Ng](http://www.andrewng.org/) [Stanford]
 
-1. Original courses from Andrew Ng [Stanford]. By @vladyslav_chikov
+Attention points:
+ * Strong focus on algorithms and models, less on statistics
+ * Plenty of insightful details from teacher
+ * Student gets hand on experience with programming assignments using MATLAB/Octave
+ * Weak focus on large data sets
+ 
+Original course resources:
+ * [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+ * [Website](http://cs229.stanford.edu/)
 
-	* [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
-	* [Website](http://cs229.stanford.edu/)
-  <br>  <br>
 2. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) on Udacity: This course is a part of "Data Analyst" nanodegree, as I understand but it is available for free. Added by @vladyslav_chikov
 &nbsp;
 
