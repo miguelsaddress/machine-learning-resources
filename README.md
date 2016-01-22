@@ -8,12 +8,20 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 
 ### [Data Analist nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) [Udacity]
 
-Instructors:
-[Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee), [Miriam Swords Kalk]()
+Instructors: [Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee), [Miriam Swords Kalk]()
 
 TODO: add other courses
 Courses:
 * [Introduction to Machine Learning](#ud120)
+
+### [Big Data Specialization](https://www.coursera.org/specializations/big-data) [Coursera]
+
+Courses:
+* [Introduction to Big Data](#big-data-intro)
+* [Machine Learning with Big Data](#big-data-ml)
+* [Graph Analytics for Big Data](#big-data-graph)
+* [Introduction to Big Data Analytics](#big-data-analytics)
+* [Hadoop Platform and Application Framework](#big-data-analytics)
 
 ### [Data Science and Analytics in Context](https://www.edx.org/xseries/data-science-analytics-context) [edX]
 
@@ -30,7 +38,7 @@ Instructors: [Emily Fox](https://www.stat.washington.edu/~ebfox/), [Carlos Guest
 
 ### [Machine Learning](https://www.coursera.org/learn/machine-learning) [Coursera]
 
-Instructor: [Andrew Ng](http://www.andrewng.org/) <br>
+Instructors: [Andrew Ng](http://www.andrewng.org/) <br>
 University: Stanford
 
 Pros/cons:
@@ -43,8 +51,33 @@ Original course resources: [Playlist on Youtube](https://www.youtube.com/playlis
 
 ###<a name="ud120"></a>[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity]
 
-Instructor: [Sebastian Thrun](http://robots.stanford.edu/) <br>
+Instructors: [Sebastian Thrun](http://robots.stanford.edu/) <br>
 University: Stanford
+
+###<a name="big-data-intro"></a>[Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data/) [Coursera]
+
+Instructors: [Natasha Balac](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=3844) <br>
+Institute: [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)
+
+###<a name="big-data-ml"></a>[Machine Learning with Big Data](https://www.coursera.org/learn/machinelearningwithbigdata) [Coursera]
+
+Instructors: [Paul Rodriguez](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=682418), [Natasha Balac](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=3844) <br>
+Institute: [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)
+
+###<a name="big-data-graph"></a>[Graph Analytics for Big Data](https://www.coursera.org/learn/graph-analytics) [Coursera]
+
+Instructors: [Amarnath Gupta](https://www.sdsc.edu/~gupta/) <br>
+Institute: [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)
+
+###<a name="big-data-analytics"></a>[Introduction to Big Data Analytics](https://www.coursera.org/learn/bigdata-analytics/) [Coursera]
+
+Instructors: [Paul Rodriguez](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=682418), [Andrea Zonca](https://about.me/andreazonca), [Natasha Balac](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=3844) <br>
+Institute: [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)
+
+###<a name="big-data-analytics"></a>[Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/) [Coursera]
+
+Instructors: [Natasha Balac](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=3844), [Paul Rodriguez](http://extension.ucsd.edu/about/index.cfm?vAction=instructorBio&personid=682418), [Andrea Zonca](https://about.me/andreazonca) <br>
+Institute: [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)
 
 ###<a name="ds101x"></a>[DS101x: Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x) [edX]
 Instructors: <br>
