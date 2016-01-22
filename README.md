@@ -6,6 +6,8 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 
 ## Online Courses and Materials
 
+### Machine Learning by Andrew Ng [Stanford]
+
 1. Original courses from Andrew Ng [Stanford]. By @vladyslav_chikov
 
 	* [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
@@ -65,5 +67,10 @@ Other Resources
 
 ## Books
  * [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) - [Sebastian Raschka](http://sebastianraschka.com/)
-
-
+	
+Contributors
+===
+Special thanks to:
+* [miguelsaddress](https://github.com/miguelsaddress)
+* [avanderm](https://github.com/avanderm)
+* @vladyslav_chikov
