@@ -9,7 +9,7 @@ This is a list of free resources to learn Machine Learning. Feel free to submit 
 ### [Machine Learning](https://www.coursera.org/learn/machine-learning) [Coursera, Stanford]
 
 Instructor:
- * [Andrew Ng](http://www.andrewng.org/)
+[Andrew Ng](http://www.andrewng.org/)
 
 Attention points:
  * Strong focus on algorithms and models, less on statistics
@@ -17,23 +17,20 @@ Attention points:
  * Student gets hand on experience with programming assignments using MATLAB/Octave
  * Weak focus on large data sets
  
-Original course resources:
- * [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
- * [Website](http://cs229.stanford.edu/)
+Original course resources: [Playlist on youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599), [Website](http://cs229.stanford.edu/)
 
 ---
 
 ### [Data Analist nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) [Udacity]
 
 Instructors:
- * [Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee)
- * [Miriam Swords Kalk]()
+[Cheng Han-Lee](http://blog.udacity.com/author/chenghanlee), [Miriam Swords Kalk]()
 
 TODO: add other courses
 #### [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [Udacity, Stanford]
 
 Instructor:
- * [Sebastian Thrun](http://robots.stanford.edu/)
+[Sebastian Thrun](http://robots.stanford.edu/)
 
 ---
 
